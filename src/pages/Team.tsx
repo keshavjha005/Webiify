@@ -66,7 +66,7 @@ export default function Team() {
           <div className="text-center max-w-3xl mx-auto">
             <p className="text-webiify-purple animate-fade-in font-medium mb-4">Our Team</p>
             <AnimatedText 
-              text="Meet the Talented Team Behind Webiify" 
+              text="Meet the Talented Team Behind webiify" 
               element="h1" 
               className="text-3xl md:text-5xl font-bold mb-6"
               gradient="default"
@@ -157,8 +157,8 @@ export default function Team() {
             />
             <p className="text-white/80 text-lg mb-8 animate-fade-in animate-delay-100">
               
-              We're  Webiify was founded by four passionate friends who shared a common dream—to make high-quality, custom websites accessible to everyone. What started as a small idea has grown into a dynamic and rapidly expanding web development company, driven by creativity, innovation, and a deep understanding of digital needs.
-            At Webiify, we specialize in creating tailored websites that reflect the unique identity and goals of each client. Whether it's a personal portfolio, a small business site, or a full-scale e-commerce platform, we ensure every project is built with precision, performance, and user experience in mind.
+              We're  webiify was founded by four passionate friends who shared a common dream—to make high-quality, custom websites accessible to everyone. What started as a small idea has grown into a dynamic and rapidly expanding web development company, driven by creativity, innovation, and a deep understanding of digital needs.
+            At webiify, we specialize in creating tailored websites that reflect the unique identity and goals of each client. Whether it's a personal portfolio, a small business site, or a full-scale e-commerce platform, we ensure every project is built with precision, performance, and user experience in mind.
 Our success is fueled by an exceptional team of designers, developers, and digital strategists. Each member brings a unique set of skills and a shared passion for excellence, allowing us to consistently deliver results that exceed expectations.
 As we continue to grow, our commitment remains the same
             </p>
